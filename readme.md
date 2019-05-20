@@ -1,14 +1,15 @@
-installation guide :
+# installation guide : #
 
-in folder AnRProject
+## in folder AnRProject 
 Create a project folder and a venv folder within : 
+
 python3 -m venv venv
 
-Activate the environment
+## Activate the environment
 
 . venv/bin/activate
 
-Install Flask
+## Install Flask
 
 pip install Flask
 
