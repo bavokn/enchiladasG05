@@ -13,3 +13,10 @@ python3 -m venv venv
 
 pip install Flask
 
+## set flask script 
+
+export FLASK_APP=main.py
+
+## run flask 
+
+flask run
