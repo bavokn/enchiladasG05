@@ -15,7 +15,7 @@ pip install Flask
 
 ## set flask script 
 
-export FLASK_APP=main.py
+export FLASK_APP=src/main.py
 
 ## run flask 
 
